@@ -1,0 +1,37 @@
+p::first-letter {
+     color: red;
+     font-size: 26px;
+    }
+h1 {
+    font-size: 34px;
+    color: orange;
+    text-align: center;
+    }
+    em {
+        color: white;
+        background-color: green;
+    }
+    h2 {
+        font-size: 34px;
+        color: orange;
+    }
+    h3 {
+    font-size: 24px;
+    color: blue;
+    }
+    .number {
+        color: white;
+        background-color: green;
+    }
+    .name {
+        color: orange;
+    }  
+    .vegetables-list {
+        color: red;
+    }
+    .fruits-list {
+        color: green;
+    }
+    .fruits-list1 {
+        color: gray;
+    }
